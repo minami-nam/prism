@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/minami-nam/prism/releases/latest"><img src="https://img.shields.io/github/v/release/minami-nam/prism?style=flat" alt="Latest release"></a>
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux-informational?style=flat" alt="Platform: Windows | Linux">
-  <a href="LICENSE.md"><img src="https://img.shields.io/github/license/minami-nam/prism?style=flat" alt="License: Apache-2.0"></a>
+  <a href="LICENSE.md"><img src="https://img.shields.io/badge/license-Apache--2.0-blue?style=flat" alt="License: Apache-2.0"></a>
 </p>
 
 Prism is a personal AI workbench that runs on your own PC. You can chat with a local model or

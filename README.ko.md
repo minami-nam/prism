@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://github.com/minami-nam/prism/releases/latest"><img src="https://img.shields.io/github/v/release/minami-nam/prism?style=flat" alt="최신 릴리스"></a>
   <img src="https://img.shields.io/badge/platform-Windows%20%7C%20Linux-informational?style=flat" alt="플랫폼: Windows | Linux">
-  <a href="LICENSE.md"><img src="https://img.shields.io/github/license/minami-nam/prism?style=flat" alt="라이선스: Apache-2.0"></a>
+  <a href="LICENSE.md"><img src="https://img.shields.io/badge/license-Apache--2.0-blue?style=flat" alt="라이선스: Apache-2.0"></a>
 </p>
 
 Prism은 내 PC에서 돌아가는 개인용 AI 작업대입니다. local model이나 이미 구독 중인 coding agent
